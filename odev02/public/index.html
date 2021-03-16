@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Kediyi Bul</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<h2>Kediyi Bulmaca</h2>
+
+<img id="img0" class="kart" src="images/blue.png" onclick="KediBul.checkWinner(this)">
+<img id="img1" class="kart" src="images/blue.png" onclick="KediBul.checkWinner(this)">
+<img id="img2" class="kart" src="images/blue.png" onclick="KediBul.checkWinner(this)">
+
+
+<div class="mesaj">
+    <p id="alanId">Kedi kartini bulmak icin uzerine tiklamalisin.</p>
+    <p id="kazandiId" style="display: none">Kazandın!!! Tebrik Ederiz :) Yeni bir oyun oynamak istersen <a href=".."><span class="link">buraya</span></a> tiklayablirsin.</p>
+    <p id="yenildiId" style="display: none">Kaybettin :( Yeni bir oyun oynamak istersen <a href=".."><span class="link">buraya</span></a> tiklayablirsin.</p>
+
+</div>
+<script src="bundle.js"></script>
+<script>KediBul.shuffleImages()</script>
+</body>
+</html>

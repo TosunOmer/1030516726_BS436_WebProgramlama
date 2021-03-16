@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1615905640721" clover="3.2.0">
-  <project timestamp="1615905640721" name="All files">
+<coverage generated="1615915659027" clover="3.2.0">
+  <project timestamp="1615915659027" name="All files">
     <metrics statements="26" coveredstatements="0" conditionals="6" coveredconditionals="0" methods="2" coveredmethods="0" elements="34" coveredelements="0" complexity="0" loc="26" ncloc="26" packages="1" files="1" classes="1"/>
-    <file name="index.js" path="C:\Users\tosun\OneDrive\Masaüstü\odev02\src\index.js">
+    <file name="index.js" path="E:\ERU\4.Sınıf\2.Donem\Web Programlama 2\Weekly Assignment\1030516726_BS436_WebProgramlama\odev02\src\index.js">
       <metrics statements="26" coveredstatements="0" conditionals="6" coveredconditionals="0" methods="2" coveredmethods="0"/>
       <line num="3" count="0" type="stmt"/>
       <line num="4" count="0" type="stmt"/>

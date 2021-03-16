@@ -1,4 +1,2 @@
-odev01/.idea
-odev02/.idea
-odev02/node_modules
-*/ignorethis
+*/.idea
+*/node_modules

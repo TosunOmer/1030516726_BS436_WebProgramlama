@@ -1,0 +1,1 @@
+// Istediginiz uzere test senaryosu yazmadim.
